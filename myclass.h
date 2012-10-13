@@ -25,6 +25,7 @@ private:
     QLabel* l_dis;
     QLineEdit* le_ent;
     QString* str_num;
+    QLabel* l_do;
     
 };
 
